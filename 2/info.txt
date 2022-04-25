@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Rex Bold
+font link: https://www.fontsquirrel.com/license/rex
+font author: Fontfabric
+font author site: http://www.fontfabric.com/
+
+
+icon designer: Toli
+icon designer link: /tolicon
+        
+
+fontColor: {"gradient-0":"#59A568","gradient-1":"#B3B3B3"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#59A568","gradient-1":"#B3B3B3"}
+
+      
